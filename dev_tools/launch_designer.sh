@@ -12,8 +12,8 @@
 #   chmod +x launch_designer.sh
 #   ./launch_designer.sh
 
-VENV_DIR="./venv"
-PLUGIN_DIR="./designer_plugins"
+VENV_DIR="../venv"
+PLUGIN_DIR="../designer_plugins"
 
 # Activate the venv
 source "$VENV_DIR/bin/activate"
